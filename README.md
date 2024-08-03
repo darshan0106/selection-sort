@@ -17,7 +17,7 @@ Here, n is the number of elements in the list.
 
 2) Outer Loop:
 
-*The outer loop runs from i = 0 to n-1 (where n is the length of the list). This loop iterates through the entire list.
+* The outer loop runs from i = 0 to n-1 (where n is the length of the list). This loop iterates through the entire list.
 
 3) Finding the Minimum:
 
